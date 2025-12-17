@@ -1,4 +1,0 @@
-This is FileB
-Lets make a change
-Change again
-Squash Merge
